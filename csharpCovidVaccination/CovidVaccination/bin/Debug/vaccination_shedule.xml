@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScheduledList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Schedule>
+    <TimeSlot>07:00 AM</TimeSlot>
+    <Customer xsi:type="FourtyFiveToSixty">
+      <CustName>Mayank</CustName>
+      <CustAgeGroup>Age 45 to 60</CustAgeGroup>
+      <CustVaccine>MODERNA</CustVaccine>
+      <CustAadhar>1234 1234 1234</CustAadhar>
+      <CustScheduleTime>07:00 AM</CustScheduleTime>
+    </Customer>
+  </Schedule>
+  <Schedule>
+    <TimeSlot>07:30 AM</TimeSlot>
+    <Customer xsi:type="FourtyFiveToSixty">
+      <CustName>Jhon</CustName>
+      <CustAgeGroup>Age 45 to 60</CustAgeGroup>
+      <CustVaccine>MODERNA</CustVaccine>
+      <CustAadhar>1234 1234 1234</CustAadhar>
+      <CustScheduleTime>07:30 AM</CustScheduleTime>
+    </Customer>
+  </Schedule>
+</ScheduledList>
